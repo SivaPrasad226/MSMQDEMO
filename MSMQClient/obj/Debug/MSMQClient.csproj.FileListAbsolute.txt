@@ -1,0 +1,7 @@
+C:\Users\davnk\source\repos\MSMQ\MSMQClient\bin\Debug\MSMQClient.exe.config
+C:\Users\davnk\source\repos\MSMQ\MSMQClient\bin\Debug\MSMQClient.exe
+C:\Users\davnk\source\repos\MSMQ\MSMQClient\bin\Debug\MSMQClient.pdb
+C:\Users\davnk\source\repos\MSMQ\MSMQClient\obj\Debug\MSMQClient.csprojAssemblyReference.cache
+C:\Users\davnk\source\repos\MSMQ\MSMQClient\obj\Debug\MSMQClient.csproj.CoreCompileInputs.cache
+C:\Users\davnk\source\repos\MSMQ\MSMQClient\obj\Debug\MSMQClient.exe
+C:\Users\davnk\source\repos\MSMQ\MSMQClient\obj\Debug\MSMQClient.pdb
